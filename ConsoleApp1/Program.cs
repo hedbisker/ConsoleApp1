@@ -85,7 +85,7 @@ namespace ConsoleApp1
             for (int i = 0; i < 40; i++)
             {
                 int v = r.Next(0, 6);
-                if(i == 3 || i== 7 || i==8 || i==17 || i==21 || i==23 || i==24 ||i == 30)
+                if(i == 3 || i== 7 || i==8 || i==17 || i==21 || i==23 || i==24 ||i == 90)
                 {
                     ddd -= difPerMounth;
                     s /= difPerMounth;
